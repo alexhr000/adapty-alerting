@@ -1,0 +1,102 @@
+{
+    "AI Game Chat": {
+        "subscriptions_new": {
+            "duration": {
+                "Weekly": 0,
+                "Monthly": 0
+            }
+        },
+        "subscriptions_renewal_cancelled": {
+            "duration": {
+                "Weekly": 0,
+                "Monthly": 0
+            }
+        },
+        "refund_events": {
+            "duration": {
+                "Weekly": 0,
+                "Monthly": 0
+            }
+        }
+    },
+    "AI DUB": {
+        "subscriptions_new": {
+            "duration": {
+                "Weekly": 0,
+                "Monthly": 0
+            }
+        },
+        "subscriptions_renewal_cancelled": {
+            "duration": {
+                "Weekly": 0,
+                "Monthly": 0
+            }
+        },
+        "refund_events": {
+            "duration": {
+                "Weekly": 0,
+                "Monthly": 0
+            }
+        }
+    },
+    "AI Bluetooth": {
+        "subscriptions_new": {
+            "duration": {
+                "Weekly": 0,
+                "Monthly": 0
+            }
+        },
+        "subscriptions_renewal_cancelled": {
+            "duration": {
+                "Weekly": 0,
+                "Monthly": 0
+            }
+        },
+        "refund_events": {
+            "duration": {
+                "Weekly": 0,
+                "Monthly": 0
+            }
+        }
+    },
+    "AI Folder": {
+        "subscriptions_new": {
+            "duration": {
+                "Weekly": 0,
+                "Monthly": 0
+            }
+        },
+        "subscriptions_renewal_cancelled": {
+            "duration": {
+                "Weekly": 0,
+                "Monthly": 0
+            }
+        },
+        "refund_events": {
+            "duration": {
+                "Weekly": 0,
+                "Monthly": 0
+            }
+        }
+    },
+    "AI Music": {
+        "subscriptions_new": {
+            "duration": {
+                "Weekly": 0,
+                "Monthly": 0
+            }
+        },
+        "subscriptions_renewal_cancelled": {
+            "duration": {
+                "Weekly": 0,
+                "Monthly": 0
+            }
+        },
+        "refund_events": {
+            "duration": {
+                "Weekly": 0,
+                "Monthly": 0
+            }
+        }
+    }
+}

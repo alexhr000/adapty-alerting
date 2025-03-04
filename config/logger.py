@@ -1,9 +1,7 @@
-import logging
-import os
+from config.config import METEOR_BOT_API_TOKEN, METEOR_CHAT_ID
 import threading
-import time
 import requests
-from config.config import API_TOKEN, CHAT_ID
+import logging
 
 file_lock = threading.Lock()
 
@@ -19,9 +17,7 @@ def setup_logger():
     return logger
 
 
-def sync_send_msg_to_telegram(msg, parse_mode="HTML"):
-    bot_token = API_TOKEN
-    chat_id = CHAT_ID
+def sync_send_msg_to_telegram(msg, parse_mode="HTML", bot_token = METEOR_BOT_API_TOKEN, chat_id = METEOR_CHAT_ID): 
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     
     data = {
