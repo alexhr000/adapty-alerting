@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  adapty_report_bot:
+    build: .
+    container_name: adapty_report_bot
+    restart: always
+    environment:
+      - TZ=Europe/Moscow
+    volumes:
+      - .:/app
+    command: ["python", "main.py"]
