@@ -16,7 +16,6 @@ AI_MUSIC_API_KEY = os.getenv('AI_MUSIC_API_KEY')
 
 games = {
     "AI Game Chat": AI_GAME_CHAT_API_KEY,
-    "AI DUB": AI_DUB_API_KEY,
     "AI Bluetooth": AI_BLUETOOTH_API_KEY,
     "AI Folder": AI_FOLDER_API_KEY,
     "AI Music": AI_MUSIC_API_KEY
